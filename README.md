@@ -1,12 +1,12 @@
 # Data Cleaning & Preprocessing - Internship Task
 
-## 📌 Objective
+## Objective
 To clean and prepare raw data for machine learning.
 
-## 📊 Dataset
+## Dataset
 Titanic Dataset
 
-## 🔧 Steps Performed
+## Steps Performed
 - Loaded dataset using pandas
 - Checked missing values
 - Filled missing values (Age → median, Embarked → mode)
@@ -16,12 +16,12 @@ Titanic Dataset
 - Removed outliers using IQR method
 - Applied feature scaling using StandardScaler
 
-## 📈 Results
+## Results
 - Cleaned dataset with no missing values
 - Reduced outliers
 - Data ready for machine learning models
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
